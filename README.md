@@ -1,12 +1,12 @@
 # Multi‑Subnet Enterprise Network Design (Cisco Packet Tracer)
 
-## 🔍 Overview
+##  Overview
 This project demonstrates the design and configuration of a multi‑subnet enterprise network using Cisco Packet Tracer.  
 It includes VLAN segmentation, inter‑VLAN routing, DHCP services, and secure network structuring aligned with real-world enterprise environments.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Build a scalable multi‑subnet network  
 - Configure VLANs for segmentation  
 - Implement inter‑VLAN routing  
@@ -15,7 +15,7 @@ It includes VLAN segmentation, inter‑VLAN routing, DHCP services, and secure n
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Cisco Packet Tracer  
 - Cisco Routers & Switches  
 - VLANs  
@@ -25,7 +25,7 @@ It includes VLAN segmentation, inter‑VLAN routing, DHCP services, and secure n
 
 ---
 
-## 🔐 Key Skills Demonstrated
+##  Key Skills Demonstrated
 - Network design and topology planning  
 - VLAN creation and trunking  
 - Router-on-a-stick configuration  
@@ -35,12 +35,12 @@ It includes VLAN segmentation, inter‑VLAN routing, DHCP services, and secure n
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 (Topology screenshots are available in the attached pdf file)
 
 ---
 
-## 🧠 What This Shows Recruiters
+##  What This Shows Recruiters
 This project proves you can:
 - Design structured enterprise networks  
 - Apply core networking concepts used in SOC investigations  
@@ -49,9 +49,9 @@ This project proves you can:
 
 ---
 
-## 📄 Documentation
+##  Documentation
 All configuration commands and topology diagrams are included in the repository.
 
-## 📫 Contact
+##  Contact
 **LinkedIn:** (https://www.linkedin.com/in/abimboladavid)  
 **Email:** (abimbolaolayinkafadipe@gmail.com)

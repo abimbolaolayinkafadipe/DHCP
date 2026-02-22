@@ -53,5 +53,5 @@ This project proves you can:
 All configuration commands and topology diagrams are included in the repository.
 
 ## 📫 Contact
-**LinkedIn:** (https://www.linkedin.com/in/abimbola-olayinka-fadipe)  
+**LinkedIn:** (https://www.linkedin.com/in/abimboladavid)  
 **Email:** (abimbolaolayinkafadipe@gmail.com)
